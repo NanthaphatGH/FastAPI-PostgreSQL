@@ -1,5 +1,5 @@
 # FastAPI-PostgreSQL
-Use FastAPI framework to connect with postgreSQL to access database by using pipenv 
+This project use FastAPI framework to connect with postgreSQL and access to a database by using pipenv shell which is a virtual environment.
 
 1. Install pipenv using command --> "pip install pipenv"
 2. Use command "pipenv shell" to start virtual environment.
